@@ -4,19 +4,23 @@
 2. analysis of single opinion structure
 | Component | CSS selector | Variable name | Data type |
 | --- | --- | --- | --- |
-| Opinion | div.user-post__card  |opinion | _ |
-| Opinion  id | ["data-entry-id"] | opinion_id | _ | 
-| Author | span.user-post__author-name | author | _ |
-| Recommendation | span.user-post__author-recomendation > em | recommendation | _ |
-| Stars rating | span.user-post__score_count | stars | _ |
-| Content | div.user-post__text | content | _ |
-| Advantages | 	div.review-feature__col:has(> div[class$="positives"]) > div.review-feature__item | pros | _ |
-| Disadvantages | div.review-feature__col:has(> div[class$="negatives"]) > div.review-feature__item | cons | _ |
-| Verification | div.review-pz | verified | _ |
-| Post date | span.user-post__published > time:nth-child(1)["datetime"] | post_date | _ | 
-| Purchase date | span.user-post__published > time:nth-child(2)["datetime"] | purchase_date | _ |
-| Usefulness count | span[id^="votes-yes] | usefulness | _ |
-| Uselessness count | span[id^="votes-no] | uselessness | _ |
+| Opinion | div.user-post__card  | opinion | dict |
+| Opinion  id | ["data-entry-id"] | opinion_id | str | 
+| Author | span.user-post__author-name | author | str |
+| Recommendation | span.user-post__author-recomendation > em | recommendation | bool |
+| Stars rating | span.user-post__score_count | stars | float |
+| Content | div.user-post__text | content | str |
+| Advantages | 	div.review-feature__col:has(> div[class$="positives"]) > div.review-feature__item | pros | list(str) |
+| Disadvantages | div.review-feature__col:has(> div[class$="negatives"]) > div.review-feature__item | cons | list(str) |
+| Verification | div.review-pz | verified | bool |
+| Post date | span.user-post__published > time:nth-child(1)["datetime"] | post_date | str | 
+| Purchase date | span.user-post__published > time:nth-child(2)["datetime"] | purchase_date | str |
+| Usefulness count | span[id^="votes-yes] | usefulness | int |
+| Uselessness count | span[id^="votes-no] | uselessness | int |
 
 3. extracion of single opinion components
 4. transformation of extracted data to given data types
+
+## Stage 2 - extraction of all opinions for single page
+
+## Stage 3 - extraction of all opinions of product
