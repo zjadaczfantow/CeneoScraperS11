@@ -2,6 +2,7 @@
 ## Stage 1 - extraction of all components for single opinion
 1. extracion of single web page content
 2. analysis of single opinion structure
+
 | Component | CSS selector | Variable name | Data type |
 | --- | --- | --- | --- |
 | Opinion | div.user-post__card  | opinion | dict |
@@ -20,7 +21,10 @@
 
 3. extracion of single opinion components
 4. transformation of extracted data to given data types
+<<<<<<< HEAD
 
 ## Stage 2 - extraction of all opinions for single page
 
 ## Stage 3 - extraction of all opinions of product
+=======
+>>>>>>> 60315514ec55a899898c6f84ae5e0f5a5d1f9a30
