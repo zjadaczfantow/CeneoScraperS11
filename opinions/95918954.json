@@ -1,0 +1,468 @@
+[
+    {
+        "author": "d...1",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Najlepszy z najlepszych",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-08 18:06:16",
+        "purchase_date": "2021-04-04 07:03:32",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14256046"
+    },
+    {
+        "author": "m...i",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Produkt bardzo dobrej jakości. Wadą jest brak możliwości pomiaru EEG i ciśnienia na innym telefonie niż Samsung. W trakcie jazdy na rowerze nie włącza się automatycznie wyświetlanie np. czasu.",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-03-31 17:34:47",
+        "purchase_date": "2021-03-14 23:07:06",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14210900"
+    },
+    {
+        "author": "d...z",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Bardzo elegancki zegarek dużo przydatnych funkcji w tym monitor ciśnienia i EKG. Trochę szkoda że nie dostępne są płatności zbliżeniowe tym zegarkiem.",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2021-03-11 17:21:14",
+        "purchase_date": "2021-03-09 08:56:01",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14099283"
+    },
+    {
+        "author": "k...k",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Smartwatch spełnia moje oczekiwania. Jestem zadowolona. Jedyny minus to czas pracy baterii.",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-05 20:56:36",
+        "purchase_date": "2021-03-16 10:46:55",
+        "usefulness": 1,
+        "uselessness": 0,
+        "opinion_id": "14232598"
+    },
+    {
+        "author": "f...0",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "wszystko ok , bateria trzyma niestety niecałe dwa dni",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-12-28 18:05:55",
+        "purchase_date": "2020-12-12 10:57:58",
+        "usefulness": 3,
+        "uselessness": 1,
+        "opinion_id": "13663260"
+    },
+    {
+        "author": "d...9",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Dobry produkt . Bateria według mnie jest słaba . Dużo funkcji.",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2021-01-06 20:14:04",
+        "purchase_date": "2020-12-28 14:05:16",
+        "usefulness": 2,
+        "uselessness": 1,
+        "opinion_id": "13721304"
+    },
+    {
+        "author": "s...0",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Jestem bardzo zadowolony....wszystkie funkcje działają idealnie",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2021-04-06 23:10:00",
+        "purchase_date": "2021-03-20 11:53:51",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14241051"
+    },
+    {
+        "author": "m...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Zegarek super. Jedyny minus to czas dzialania baterii.",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2021-04-20 06:33:39",
+        "purchase_date": "2021-04-08 14:32:02",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14319706"
+    },
+    {
+        "author": "p...r",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Produkt godny swojej ceny. Szkoda, że nie można jeszcze wykorzystywać opcji EKG.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-11-09 15:04:12",
+        "purchase_date": "2020-10-29 09:14:44",
+        "usefulness": 1,
+        "uselessness": 3,
+        "opinion_id": "13347881"
+    },
+    {
+        "author": "j...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Produkt nie spełnił moich oczekiwań, brak wszystkich funkcji",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-11-27 14:10:43",
+        "purchase_date": "2020-11-24 17:04:35",
+        "usefulness": 0,
+        "uselessness": 3,
+        "opinion_id": "13460274"
+    },
+    {
+        "author": "r...3",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Zegarek super działa szybko płynnie jestem mega zadowolony z zakupu :)",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-09-21 21:37:32",
+        "purchase_date": "2020-08-16 22:41:40",
+        "usefulness": 2,
+        "uselessness": 6,
+        "opinion_id": "13110494"
+    },
+    {
+        "author": "Jacek",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Doskonale współpracuje z Note 10 plus",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-12-26 11:43:57",
+        "purchase_date": "2020-11-24 22:52:48",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13651712"
+    },
+    {
+        "author": "l...k",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "wykonany super  od 2 dni u mnie",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-02-07 17:25:58",
+        "purchase_date": "2021-02-02 21:42:31",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13914115"
+    },
+    {
+        "author": "j...s",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Zgodnie z oczekiwaniami super",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-22 11:14:32",
+        "purchase_date": "2021-04-20 13:44:23",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14337747"
+    },
+    {
+        "author": "a...y",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Super zakup, szybka i bezproblemowa obsługa.",
+        "pros": [
+            "czas pracy na baterii"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-12-09 07:54:20",
+        "purchase_date": "2020-11-27 19:21:16",
+        "usefulness": 0,
+        "uselessness": 2,
+        "opinion_id": "13533753"
+    },
+    {
+        "author": "m...g",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Wysoka jakość wykonania.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-08 21:23:08",
+        "purchase_date": "2021-04-05 21:29:59",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14257982"
+    },
+    {
+        "author": "t...z",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Zgodnie z opisem.",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-03-02 18:32:37",
+        "purchase_date": "2021-02-27 14:12:35",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14044901"
+    },
+    {
+        "author": "a...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Godny polecenia",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-01-22 08:27:18",
+        "purchase_date": "2020-12-26 10:05:10",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13819352"
+    },
+    {
+        "author": "K...5",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Bardzo dobry produkt",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-11-26 12:15:41",
+        "purchase_date": "2020-11-17 12:59:28",
+        "usefulness": 0,
+        "uselessness": 1,
+        "opinion_id": "13451277"
+    },
+    {
+        "author": "m...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-19 21:10:27",
+        "purchase_date": "2021-04-02 19:13:50",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14318624"
+    },
+    {
+        "author": "b...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-07 15:28:11",
+        "purchase_date": "2021-03-30 20:42:12",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14245496"
+    },
+    {
+        "author": "k...h",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Piekny",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2021-03-18 11:09:47",
+        "purchase_date": "2021-03-13 18:24:43",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14138383"
+    },
+    {
+        "author": "t...5",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "SUPER",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-12-02 18:49:13",
+        "purchase_date": "2020-11-30 13:22:37",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13490398"
+    },
+    {
+        "author": "m...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Supr",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-03-28 06:40:35",
+        "purchase_date": "2021-03-10 18:23:34",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14192165"
+    },
+    {
+        "author": "c...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-03-22 21:42:42",
+        "purchase_date": "2021-02-28 16:06:37",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14159811"
+    },
+    {
+        "author": "b...h",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "verfied": true,
+        "post_date": "2020-12-16 17:39:17",
+        "purchase_date": "2020-12-10 21:01:15",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13592117"
+    },
+    {
+        "author": "m...s",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2020-12-24 22:31:38",
+        "purchase_date": "2020-12-01 19:05:20",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13645429"
+    },
+    {
+        "author": "Krzysztof",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Czas pokaże czy zakup byl udany",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-01-05 22:52:13",
+        "purchase_date": "2020-12-15 20:47:07",
+        "usefulness": 0,
+        "uselessness": 3,
+        "opinion_id": "13717259"
+    },
+    {
+        "author": "Leszek",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Kolejny świetny zegarek od Samsung. Bateria trzyma 2 dni. Pełno aplikacji, bardzo praktycznych. Dla kogoś kto uprawia sport czy dba o zdrowie idealny produkt.  A ekran? Bajka! Super kolory, wszystko widać żyleta.",
+        "pros": [],
+        "cons": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "wyświetlacz"
+        ],
+        "verfied": false,
+        "post_date": "2020-10-16 16:43:54",
+        "purchase_date": null,
+        "usefulness": 2,
+        "uselessness": 2,
+        "opinion_id": "13226430"
+    }
+]
